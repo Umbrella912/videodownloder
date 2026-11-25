@@ -1,0 +1,5 @@
+Flask>=3.0
+yt-dlp[default,curl-cffi]>=2025.1.0
+imageio-ffmpeg>=0.5
+
+instaloader>=4.14
